@@ -3,7 +3,7 @@
 # Hi there, I'm Bagas Adjie Pamungkas 👋
 
 ### Information Engineering Student @ UGM
-### AI/ML, Computer Vision, Data Science, and Geospatial Enthusiast
+### AI/ML, Computer Vision, Data Science, and Data Engineer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=580&lines=AI+%26+Machine+Learning+Engineering;Computer+Vision+%26+Multimodal+Deep+Learning;Data+Science+%26+Hydrological+Forecasting;Building+Data-Driven+%26+Intelligent+Solutions" alt="Typing animation showing Bagas Adjie Pamungkas focus areas" />
